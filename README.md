@@ -51,5 +51,15 @@ link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosG
 
 ## Install cuda
 
+* sudo apt-get -y install nvidia-cuda-toolkit
 
+### library (DNN), cuDNN library 
+
+* sudo apt-get -y install nvidia-cudnn
+
+### upgrage version
+* sudo apt-get update && upgrade -y
+
+## Install cudnn
+* dpkg -l | grep cudnn
 
