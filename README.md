@@ -45,6 +45,7 @@ link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosG
 ### check ดูว่ามีกรอบติดหรือไม่ 
 * nvidia-smi
 
+
 > Aternative way ทางเลือกอื่น
 link: https://www.murhabazi.com/install-nvidia-driver
 
