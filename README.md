@@ -1,16 +1,16 @@
 # ความคืบหน้าของโปรเจค
 
-คำสั่งเพิ่มเติม \n
-cd enter ออกไป main base ของ dev \n
-cd เป็นการเรียกใช้ folder \n
-ls เป็นการเช็คไฟล์ภายในโฟลเดอร์ \n 
-wget --no-check-certificate [link] \n
-**ตัวอย่างเช่น** \n 
+## **คำสั่งเพิ่มเติม** 
+* cd enter ออกไป main base ของ dev 
+* cd เป็นการเรียกใช้ folder 
+* ls เป็นการเช็คไฟล์ภายในโฟลเดอร์ 
+* wget --no-check-certificate [link] 
+**ตัวอย่างเช่น** 
 wget https://shapenet.cs.standford.edu/shapenet/obj-zip/ShapeNetCore.v2.zip 
---2022-12-09 10:10:02-- https://shapenet.cs.standford.edu \n
+--2022-12-09 10:10:02-- https://shapenet.cs.standford.edu 
 
-Screen ใช้เพื่อทำให้สามารถโหลดในอีกหน้าได้ \n
-สร้าง Screen \n
+# Screen ใช้เพื่อทำให้สามารถโหลดในอีกหน้าได้ 
+## สร้าง Screen 
 - 
 
 
@@ -21,13 +21,13 @@ Screen ใช้เพื่อทำให้สามารถโหลดใ�
 
 
 
-## install nvidia driver \n
-link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosGNK0p8/edit?fbclid=IwAR27aDKO4-YIc1EomyCkIiKYhQesJuA1HQ2q9j3Z6R2C5T-c26CSMaiYfuQ# \n
+## install nvidia driver 
+link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosGNK0p8/edit?fbclid=IwAR27aDKO4-YIc1EomyCkIiKYhQesJuA1HQ2q9j3Z6R2C5T-c26CSMaiYfuQ# 
 
-- update driver nvidia \n
+* update driver nvidia \n
 sudo apt update && sudo apt upgrade -y \n
 
-- check ว่ามี nvidia ภายในเครื่องหรือไม่ \n
+* check ว่ามี nvidia ภายในเครื่องหรือไม่ \n
 ubuntu-drivers devices \n
 เลือกอันที่มีคำว่า recommend \n
 
