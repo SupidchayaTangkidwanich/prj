@@ -17,6 +17,8 @@ wget https://shapenet.cs.standford.edu/shapenet/obj-zip/ShapeNetCore.v2.zip
 
 ## สร้าง Screen 
 * screen -S [ชื่อ Screen]
+> **ตัวอย่างเช่น** 
+screen -S loaddata
 
 ## Open Screen
 * screen -R
@@ -33,12 +35,12 @@ wget https://shapenet.cs.standford.edu/shapenet/obj-zip/ShapeNetCore.v2.zip
 ## install nvidia driver 
 link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosGNK0p8/edit?fbclid=IwAR27aDKO4-YIc1EomyCkIiKYhQesJuA1HQ2q9j3Z6R2C5T-c26CSMaiYfuQ# 
 
-* update driver nvidia \n
-sudo apt update && sudo apt upgrade -y \n
+* update driver nvidia 
+sudo apt update && sudo apt upgrade -y 
 
-* check ว่ามี nvidia ภายในเครื่องหรือไม่ \n
-ubuntu-drivers devices \n
-เลือกอันที่มีคำว่า recommend \n
+* check ว่ามี nvidia ภายในเครื่องหรือไม่ 
+ubuntu-drivers devices 
+เลือกอันที่มีคำว่า recommend 
 
 
 
