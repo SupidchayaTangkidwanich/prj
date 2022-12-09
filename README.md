@@ -28,7 +28,7 @@ screen -S loadData
 * ctrl + a + d (พร้อมกัน)
 
 # Nvidia driver + cuda + cudnn
-## install nvidia driver 
+## Install nvidia driver 
 link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosGNK0p8/edit?fbclid=IwAR27aDKO4-YIc1EomyCkIiKYhQesJuA1HQ2q9j3Z6R2C5T-c26CSMaiYfuQ# 
 
 ### update driver nvidia 
@@ -47,9 +47,9 @@ link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosG
 
 
 > Aternative way ทางเลือกอื่น
-link: https://www.murhabazi.com/install-nvidia-driver
+* link: https://www.murhabazi.com/install-nvidia-driver
 
-
+## Install cuda
 
 
 
