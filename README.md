@@ -5,7 +5,7 @@
 * cd เป็นการเรียกใช้ folder 
 * ls เป็นการเช็คไฟล์ภายในโฟลเดอร์ 
 * wget --no-check-certificate [link] 
-**ตัวอย่างเช่น** 
+> **ตัวอย่างเช่น** 
 wget https://shapenet.cs.standford.edu/shapenet/obj-zip/ShapeNetCore.v2.zip 
 --2022-12-09 10:10:02-- https://shapenet.cs.standford.edu 
 
