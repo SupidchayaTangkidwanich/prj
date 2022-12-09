@@ -4,8 +4,8 @@
 * cd enter ออกไป main base ของ dev 
 * cd เป็นการเรียกใช้ folder 
 * ls เป็นการเช็คไฟล์ภายในโฟลเดอร์
-* ลบ Data Folder 
- rm -rf [ชื่อโฟลเดอร์ที่ต้องการลบข้อมูลออก]
+* **ลบ Data Folder** 
+ | rm -rf [ชื่อโฟลเดอร์ที่ต้องการลบข้อมูลออก]
 * pwd /home/supidchaya/prj/corenet ใช้เพื่อบอกว่า ทำงานอยู่ตรงไหนของโฟลเดอร์
 * wget --no-check-certificate [link] 
 > **ตัวอย่างเช่น** 
