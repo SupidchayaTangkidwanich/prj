@@ -63,3 +63,8 @@ link: https://docs.google.com/document/d/1MQ35ZeMZupJQCz4pUmI2Z0j6yD5VaVRWYBtosG
 ## Install cudnn
 * dpkg -l | grep cudnn
 * link : https://github.com/WiratchawaKannika/EfficientNetV2-Keras/blob/main/MyNote/setup%20Driver-Cuda-CUdnn.md?fbclid=IwAR3N84DTP2X55Y-bsRWs9mruyk9vfjKnuPeQnO_mu1hSi6jpzVvSEIeDOIM
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <span style="width: max-content;">KOKORO</span>
+  <span style="width: max-content;">Amamiya</span>
+</div>
